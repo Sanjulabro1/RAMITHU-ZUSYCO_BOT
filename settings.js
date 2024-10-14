@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94701628336",
-  SUDO_NUMBERS : "94766632281,94701628336",
-  OWNER_NAME: "Mʀ Rᴀᴍɪᴛʜᴜ",
+  OWNER_NUMBER: "94710513877",
+  SUDO_NUMBERS : "94776928548,94702866541",
+  OWNER_NAME: "Mr Sanjuwa Official",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -32,15 +32,15 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
-  WORK_MODE : "onlyinbox",
+  WORK_TYPE : "publiv",
+  WORK_MODE : "onlygroup",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
+  CAPTION : '*⭕️ Mr.Sanjuwa Official ✅*',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
@@ -54,8 +54,8 @@ module.exports = {
   },
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
+  AUTO_REACT : true,
+  OWNER_REACT : '⭕',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
